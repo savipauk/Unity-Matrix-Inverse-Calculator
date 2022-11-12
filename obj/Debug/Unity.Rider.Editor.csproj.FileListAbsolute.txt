@@ -1,0 +1,2 @@
+C:\Users\erikk\matrices\obj\Debug\Unity.Rider.Editor.csprojAssemblyReference.cache
+C:\Users\erikk\matrices\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache
